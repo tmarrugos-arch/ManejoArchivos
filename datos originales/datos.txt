@@ -1,0 +1,8 @@
+Bienvenido al manejo de archivos de texto en Java.
+Esta es la segunda línea del archivo.
+Los archivos TXT son los más simples de leer y escribir.
+Usamos BufferedReader para leer y PrintWriter para escribir.
+Recuerda siempre cerrar el flujo después de usarlo.
+Línea 6: los flujos son como tuberías de datos.
+Línea 7: BufferedWriter mejora el rendimiento agrupando escrituras.
+Línea 8: prueba modificar este archivo y vuelve a leerlo.

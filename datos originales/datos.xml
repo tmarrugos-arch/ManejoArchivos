@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<estudiantes>
+    <estudiante>
+        <nombre>Ana García</nombre>
+        <edad>22</edad>
+        <carrera>Ingeniería de Sistemas</carrera>
+    </estudiante>
+    <estudiante>
+        <nombre>Luis Martínez</nombre>
+        <edad>20</edad>
+        <carrera>Redes de Computadores</carrera>
+    </estudiante>
+    <estudiante>
+        <nombre>Sara López</nombre>
+        <edad>21</edad>
+        <carrera>Desarrollo de Software</carrera>
+    </estudiante>
+    <estudiante>
+        <nombre>Carlos Pérez</nombre>
+        <edad>23</edad>
+        <carrera>Seguridad Informática</carrera>
+    </estudiante>
+</estudiantes>

@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "Ana García",
+        "edad": 22,
+        "carrera": "Ingeniería de Sistemas"
+    },
+    {
+        "nombre": "Luis Martínez",
+        "edad": 20,
+        "carrera": "Redes de Computadores"
+    },
+    {
+        "nombre": "Sara López",
+        "edad": 21,
+        "carrera": "Desarrollo de Software"
+    },
+    {
+        "nombre": "Carlos Pérez",
+        "edad": 23,
+        "carrera": "Seguridad Informática"
+    }
+]

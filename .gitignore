@@ -1,0 +1,26 @@
+# ── Maven ──────────────────────────────
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+dependency-reduced-pom.xml
+
+# ── NetBeans ───────────────────────────
+nbproject/private/
+nbactions.xml
+nb-configuration.xml
+nbbuild/
+dist/
+build/
+.nb-gradle/
+
+# ── Java ───────────────────────────────
+*.class
+*.log
+hs_err_pid*
+
+# ── Sistema operativo ──────────────────
+Thumbs.db
+desktop.ini
+.DS_Store
